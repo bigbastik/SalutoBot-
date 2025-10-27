@@ -13,5 +13,5 @@ Un bot IRC che saluta automaticamente gli utenti in un canale.
 
 1. Clona la repository:
 ```bash
-git clone https://github.com/tuo-username/Salutobot
+git clone https://github.com/tuo-username/Salutobot-
 cd Salutobot
